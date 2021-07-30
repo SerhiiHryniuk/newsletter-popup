@@ -12,7 +12,6 @@
 }
 
 body{
-    background-image: url("/Assets/Background.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -31,7 +30,6 @@ main{
 #name-newsletter{
     padding: 10% 0% 10% 0%;
     background: var(--blue);
-    background-image: url("/Assets/Pattern.png");
     color: var(--white);
     text-align: center;
     font-size: small;
